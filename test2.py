@@ -1,3 +1,5 @@
+!pip install sentence_transformers
+!pip install streamlit
 import pandas as pd
 import pandas as pd
 import numpy as np
